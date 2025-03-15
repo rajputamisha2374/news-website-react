@@ -1,3 +1,6 @@
+
+Watch the video of the project here - https://drive.google.com/drive/folders/1l7UFI9iiqPn9kzgCOd0Ifd707T8FI7uS?usp=sharing
+
 This is a news website application that fetches the latest news articles using an API. The app provides users with real-time news updates from various sources, ensuring they stay informed about current events worldwide.
 
 Features:
