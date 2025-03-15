@@ -1,0 +1,145 @@
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #42709B;
+  padding-bottom: 15px;
+  padding: 0px;
+}
+nav input{
+  width: 200px;
+  text-decoration: none;
+  padding: 9px;
+  font-size: 18px;
+  border: none;
+  border-radius: 3px;
+}
+.searchBar{
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  border-radius: 3px;
+}
+nav button{
+  width: 70px;
+  height: 38px;
+  background-color: #CF2828;
+  border: none;
+  border-radius: 2px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  
+}
+nav ul{
+  display: flex;
+  gap: 11px;
+
+}
+.cardContainer{
+  display: flex;
+  justify-content: center;
+  gap:41px;
+  flex-wrap: wrap;
+
+}
+
+.card{
+  width: 320px;
+  box-shadow: 0px 4px 4px 4px rgb(255, 255, 255);
+  background-color: white;
+  margin-top: 21px;
+  border: 1px solid rgb(236, 236, 236);
+  border-radius: 10px; /* Smooth corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card img{
+  width: 100%;
+  height: 180px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+}
+.card .title{
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: -7px;
+  display: inline-block; /* Ensures scaling works properly */
+  transition: transform 0.3s ease-out;
+}
+.card .title:hover{
+  transform: scale(1.05);
+  cursor: pointer;
+}
+.card .content{
+  padding: 9px;
+}
+.card button{
+  background-color: #42709B;
+  border-color: #42709B;
+  text-align: center;
+  cursor: pointer;
+  width: 80px;
+  height: 28px;
+  color: white;
+  font-size: 12px;
+  border-radius: 2px;
+}
+.card button:hover{
+  transform: translateY(-1px); /* Moves card up on hover */
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3); 
+}
+.categoryBtn{
+  display: flex;
+  justify-content: center;
+  gap: 11px;
+  margin-top: 20px;
+}
+.categoryBtn button{
+  gap: 11px;
+  width: 130px;
+  height: 33px;
+  background-color: #CF2828;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  border-radius: 16px;
+  color: white;
+  cursor: pointer;
+  padding: 2px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3); 
+}
+
+
+.head{
+  text-align: center;
+  font-weight: 600;
+  font-size: 26px;
+}
+
+.topNews{
+  text-align: center;
+}
+
+.navCenterText{
+  font-size: 20px;
+  font-weight: bold;
+}
