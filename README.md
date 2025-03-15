@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+This is a news website application that fetches the latest news articles using an API. The app provides users with real-time news updates from various sources, ensuring they stay informed about current events worldwide.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Features:
 
-## Available Scripts
+a] Fetches real-time news from an API
 
-In the project directory, you can run:
+b] Categorized news sections (e.g., Technology, Sports, Business, etc.)
 
-### `npm start`
+c] User-friendly and responsive design
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+d] Search functionality to find specific news articles
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+e] Bookmark feature to save articles for later reading
 
-### `npm test`
+f] Custom logo created using The HOTH Free Logo Maker
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+a] Frontend: [HTML, CSS, JavaScript, React]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+b] API: [NewsAPI]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+c] Deployment: [Deployed using GitHub]
 
-### `npm run eject`
+d] Deployed link: https://rajputamisha2374.github.io/news-website-react/
+(the news might not be visible in through this link because of API key privacy.)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Acknowledgments
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+a] API provided by News API
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+b] Logo created using The HOTH Free Logo Maker
