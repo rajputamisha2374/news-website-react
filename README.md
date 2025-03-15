@@ -15,7 +15,8 @@ e] Bookmark feature to save articles for later reading
 f] Custom logo created using The HOTH Free Logo Maker
 
 
-Technologies Used
+
+Technologies Used:
 
 a] Frontend: [HTML, CSS, JavaScript, React]
 
@@ -26,7 +27,8 @@ c] Deployment: [Deployed using GitHub]
 d] Deployed link: https://rajputamisha2374.github.io/news-website-react/
 (the news might not be visible in through this link because of API key privacy.)
 
-Acknowledgments
+
+Acknowledgments:
 
 a] API provided by News API
 
