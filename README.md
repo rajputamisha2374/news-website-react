@@ -36,3 +36,12 @@ Acknowledgments:
 a] API provided by News API
 
 b] Logo created using The HOTH Free Logo Maker
+
+
+Photos:
+
+![image](https://github.com/user-attachments/assets/69b1ab72-c7d1-405c-b544-61b82214a30c)
+
+
+![image](https://github.com/user-attachments/assets/4f333121-58d0-4b75-8c44-fba6c057b4b5)
+
