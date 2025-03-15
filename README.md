@@ -25,7 +25,7 @@ b] API: [NewsAPI]
 c] Deployment: [Deployed using GitHub]
 
 d] Deployed link: https://rajputamisha2374.github.io/news-website-react/
-(the news might not be visible in through this link because of API key privacy.)
+(the news might not be visible through this link because of API key privacy.)
 
 
 Acknowledgments:
