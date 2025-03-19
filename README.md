@@ -13,10 +13,7 @@ c] User-friendly and responsive design
 
 d] Search functionality to find specific news articles
 
-e] Bookmark feature to save articles for later reading
-
-f] Custom logo created using The HOTH Free Logo Maker
-
+e] Custom logo created using The HOTH Free Logo Maker
 
 
 Technologies Used:
